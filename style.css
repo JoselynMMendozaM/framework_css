@@ -1,0 +1,14 @@
+
+  
+  @media (max-width: 768px) {
+    .card-img-overlay p{
+        font-size: 90%;
+        
+    }
+  }
+  @media (max-width: 425px) {
+    .card-img-overlay p{
+        font-size: 60%;
+        
+    }
+  }
